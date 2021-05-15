@@ -1,0 +1,134 @@
+body
+{
+width: 21cm;
+height: 29.7cm;
+margin: 0mm 0mm 0mm 0mm; 
+padding: 0px;
+background: #ffffff;
+color: #000000;
+font-family: arial, trebuchet MS, verdana, tahoma;
+font-size: 12px;
+}
+
+.holder
+{
+width:100%;
+border: 0px;
+margin: 0px;
+background-color: white;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+}
+
+.pasek
+{
+display: none;
+}
+
+.pasek_vpravo
+{
+display: none;
+}
+
+.submenu
+{
+display: none;
+}
+
+.popis_admin
+{
+display: none;
+padding: 0px;
+margin: 0px;
+}
+
+.top
+{
+margin: 0px;
+vertical-align: top;
+}
+
+
+.admin
+{
+border: 0px;
+margin: 0px;
+}
+
+fieldset
+{
+border: 0px;
+padding: 0px;
+margin: 0px;
+}
+
+.admin table, .admin td
+{
+font-size: 12px;
+}
+
+.admin select, .admin input, .admin textarea
+{
+font-size: 12px;
+font-family: arial, trebuchet MS, verdana, tahoma;
+background-color: white;
+border: solid 1px #ffffff;
+}
+
+.admin a
+{
+color: #000000;
+text-decoration: underline;
+}
+
+.admin a:hover
+{
+color: #000000;
+text-decoration: underline;
+}
+
+.ta, .ta td
+{
+border-collapse: collapse;
+border: solid 1px #88a5b3;
+} 
+
+.tr-header
+{
+background: #a2d6ef;
+font-weight: bold;
+height: 25px;
+}
+
+.tr-header a
+{
+color: #000000;
+text-decoration: underline;
+}
+
+.tr-header a:hover
+{
+color: #a62337;
+text-decoration: underline;
+}
+
+
+.tr-header td
+{
+border-right: solid 1px  #000000;
+}
+
+.tr-header a, .tr-header a:hover
+{
+color:  #000000;
+}
+
+.page_break_print
+{
+clear: both;
+width: auto;
+page-break-after: always;
+}
+
+
